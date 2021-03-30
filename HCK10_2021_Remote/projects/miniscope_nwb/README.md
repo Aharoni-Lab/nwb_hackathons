@@ -7,6 +7,7 @@
 ## Key Investigators
 
 Daniel Aharoni, PhD. Department of Neurology, UCLA
+Federico Sangiuliano Jimka. Department of Neurology, UCLA
 
 ## Project Description
 
@@ -14,7 +15,11 @@ We will be developing a NWB conversion tool to convert the UCLA Miniscope data f
 
 ## Objectives
 
-<!-- Briefly describe the objectives of your project. What would you like to achive?-->
+Develop an easy to use Python tool to convert the Miniscope data structure to NWB format.
+
+* Learn as much as possible about NWB and available NWB resources.
+* Build a Python tool for Miniscope data converstion to NWB.
+* Add tool into embedded Python within the Miniscope DAQ Software.
 
 <!-- 1. Objective A. Describe it in 1-2 sentences.-->
 <!-- 1. Objective B. Describe it in 1-2 sentences.-->
